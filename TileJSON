@@ -4,7 +4,7 @@
   "description": "Description of your map",
   "version": "1.0.0",
   "tiles": [
-    "http://tiles.xologie.ru:8080/maps/bonn/{z}/{x}/{y}.vector.pbf?debug=true"
+    "http://tiles.xologie.ru:8080/maps/bonn/{z}/{x}/{y}.vector.pbf"
   ],
   "minzoom": 0,
   "maxzoom": 18,
