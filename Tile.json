@@ -1,18 +1,7 @@
 {
-  "tilejson": "2.2.0",
-  "name": "Mapbox Streets Vector Tileset",
-  "description": "Vector tiles from Mapbox",
-  "version": "1.0.0",
-  "tiles": [
-    "http://tiles.xologie.ru:8080/maps/bonn/{z}/{x}/{y}.vector.pbf"
-  ],
-  "minzoom": 0,
-  "maxzoom": 14,
-  "bounds": [
-    -180,
-    -85.0511,
-    180,
-    85.0511
-  ],
-  "attribution": "© Mapbox"
+  "tilejson": "2.1.0",
+  "scheme": "xyz",
+  "tiles": {
+    "0": "http://tiles.xologie.ru:8080/maps/bonn/{z}/{x}/{y}.vector.pbf"
+  }
 }
