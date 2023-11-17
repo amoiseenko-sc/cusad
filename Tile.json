@@ -1,7 +1,7 @@
 {
   "tilejson": "2.2.0",
   "tiles": [
-    "https://a.tiles.mapbox.com/v4/mapbox.mapbox-streets-v6/{z}/{x}/{y}.vector.pbf?access_token=pk.eyJ1Ijoic2NvZmYiLCJhIjoiY2xvcG51Y2lkMGFwdTJqbDk0NjNxajA0dyJ9.gW8g1QiX0l2qI5fOMuGp4w"
+    "https://basemaps.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf"
   ],
   "minzoom": 0,
   "maxzoom": 18,
