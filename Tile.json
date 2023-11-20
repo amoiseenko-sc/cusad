@@ -1,7 +1,7 @@
 {
   "tilejson": "2.2.0",
   "tiles": [
-    "https://basemaps.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf"
+    "http://tiles.xologie.ru:8080/maps/bonn/{z}/{x}/{y}.vector.pbf"
   ],
   "minzoom": 0,
   "maxzoom": 18,
